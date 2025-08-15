@@ -10,10 +10,11 @@
     "node": "20.x"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.631.0",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "multer": "^1.4.5-lts.1",
+    "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
-  },
-  "license": "UNLICENSED"
+  }
 }
